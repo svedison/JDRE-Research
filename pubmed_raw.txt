@@ -1,0 +1,513 @@
+
+PMID- 40684516
+OWN - NLM
+STAT- Publisher
+LR  - 20250720
+IS  - 1879-4076 (Electronic)
+IS  - 1879-4068 (Linking)
+VI  - 16
+IP  - 7
+DP  - 2025 Jul 19
+TI  - Treatment-related cognitive changes in multiple myeloma: A systematic review and 
+      meta-analysis.
+PG  - 102321
+LID - S1879-4068(25)00137-7 [pii]
+LID - 10.1016/j.jgo.2025.102321 [doi]
+AB  - INTRODUCTION: Multiple myeloma (MM) is an incurable blood cancer with improved 
+      survival rates due to advances in treatment, including stem cell transplantation, 
+      chemotherapy, and drug therapy. However, cognitive impact of therapies remains 
+      unclear. This study aimed to systematically review cognition in patients with MM 
+      across treatment pathways and estimate overall effects to determine whether 
+      patients experienced cognitive changes after treatment initiation. MATERIALS AND 
+      METHODS: A comprehensive search was conducted in PsycINFO, MEDLINE, Embase, and 
+      Google Scholar for full-text English articles from 2000 to 2024, aligned with the 
+      era of new treatment advances. The review included longitudinal studies and 
+      randomized controlled trials (RCTs) on cognition and quality of life in patients 
+      with MM treated via three common pathways. Measures included objective tools like 
+      the Montreal Cognitive Assessment (MoCA) and self-reported questionnaires like 
+      the European Organisation for Research and Treatment of Cancer Quality of Life 
+      Questionnaire Core-30 (EORTC QLQ-C30). Two reviewers independently extracted data 
+      and assessed study bias. The meta-analyses examined cognitive changes from 
+      baseline up to six months from the start of treatment. This duration was 
+      identified due to being an intensive phase in MM therapy. RESULTS: Eighteen 
+      studies (N = 5843) were reviewed, and eight (N = 3602) contributed to the 
+      meta-analysis. The risk of bias analysis revealed a potential self-selection bias 
+      in participant recruitment onto studies, meaning sample populations may not be 
+      representative of the MM community. The meta-analysis revealed a significant 
+      cognitive decline from baseline across all treatment during the first six months 
+      of treatment (standardized mean difference = 1.10, p = .02). DISCUSSION: 
+      Perceived cognitive decline is prevalent in patients with MM during active 
+      treatment (<6 months), but not during the maintenance phase of MM treatment 
+      (>6 months). However, findings predominantly rely on self-reported cognitive 
+      outcomes, rather than objective assessments, which may limit reliability. More 
+      RCTs are needed to investigate domain-specific cognitive impacts using 
+      standardized objective measures. In addition, comparisons of cognitive outcomes 
+      relative to age/education-matched healthy controls should be made to evaluate 
+      cancer-related cognitive impairment.
+CI  - Copyright (c) 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Patel, Sumayyah
+AU  - Patel S
+AD  - University of Leeds, Leeds LS2 9JT, UK. Electronic address: ps19sp@leeds.ac.uk.
+FAU - Parrish, Christopher
+AU  - Parrish C
+AD  - University of Leeds, Leeds LS2 9JT, UK; Leeds Teaching Hospitals Trust, St James 
+      University Hospital, Leeds LS9 7TF, UK.
+FAU - Seymour, Frances
+AU  - Seymour F
+AD  - Leeds Teaching Hospitals Trust, St James University Hospital, Leeds LS9 7TF, UK.
+FAU - Burke, Melanie
+AU  - Burke M
+AD  - University of Leeds, Leeds LS2 9JT, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250719
+PL  - Netherlands
+TA  - J Geriatr Oncol
+JT  - Journal of geriatric oncology
+JID - 101534770
+SB  - IM
+OTO - NOTNLM
+OT  - Age
+OT  - Cognition
+OT  - Multiple myeloma
+OT  - Neuropsychological
+OT  - Treatment
+OT  - cancer
+COIS- Declaration of competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/07/20 18:30
+MHDA- 2025/07/20 18:30
+CRDT- 2025/07/20 18:00
+PHST- 2025/07/20 18:30 [medline]
+PHST- 2025/07/20 18:30 [pubmed]
+PHST- 2025/04/10 00:00 [received]
+PHST- 2025/06/12 00:00 [revised]
+PHST- 2025/07/11 00:00 [accepted]
+PHST- 2025/07/20 18:00 [entrez]
+AID - S1879-4068(25)00137-7 [pii]
+AID - 10.1016/j.jgo.2025.102321 [doi]
+PST - aheadofprint
+SO  - J Geriatr Oncol. 2025 Jul 19;16(7):102321. doi: 10.1016/j.jgo.2025.102321.
+
+PMID- 40684514
+OWN - NLM
+STAT- Publisher
+LR  - 20250720
+IS  - 1878-3279 (Electronic)
+IS  - 0171-2985 (Linking)
+VI  - 230
+IP  - 4
+DP  - 2025 Jul 17
+TI  - Genetic variants in complement-related genes: potential implications for cancer 
+      risk and progression.
+PG  - 153100
+LID - S0171-2985(25)00234-7 [pii]
+LID - 10.1016/j.imbio.2025.153100 [doi]
+AB  - The complement system is a critical component of the immune system, playing a 
+      significant role in pathogen defense and immune regulation. In cancer, it has a 
+      complex and dual role, either aiding in immune surveillance or contributing to 
+      tumor progression and immune evasion, depending on the specific context. While 
+      genetic and epigenetic regulation of complement-related genes has been studied in 
+      various diseases, its influence on cancer remains underexplored. This review 
+      focuses on how genetic variants in complement pathway genes may modulate cancer 
+      susceptibility, progression, and treatment outcomes. Genome-wide association 
+      studies (GWAS) have identified several key single nucleotide polymorphisms (SNPs) 
+      linked to complement genes, such as C3, C7, CFHR4 and ITGB2, which could 
+      influence immune responses and cancer development. Additionally, epigenetic 
+      modifications, such as DNA methylation, have been shown to regulate the 
+      expression of complement genes in cancer, adding further complexity to our 
+      understanding of their role in tumor immunity. Challenges remain in translating 
+      genetic and epigenetic insights into therapeutic strategies. The complex nature 
+      of cancer, tissue-specific complement regulation, and the difficulty in 
+      identifying reliable biomarkers complicate the development of targeted 
+      complement-based therapies for precision medicine. Therefore, future research 
+      combining genetic, genomic, and epigenomic data, along with functional genomics 
+      and proteomics, is needed to elucidate the potential roles of regulatory variants 
+      of complement genes in cancer. In addition to mechanistic studies, this 
+      information can be used to guide personalized treatment strategies for cancer 
+      patients.
+CI  - Copyright (c) 2025. Published by Elsevier GmbH.
+FAU - Fung, Jenny N
+AU  - Fung JN
+AD  - School of Biomedical Sciences, The University of Queensland, St Lucia, Brisbane, 
+      Australia. Electronic address: j.fung1@uq.edu.au.
+FAU - Pio, Ruben
+AU  - Pio R
+AD  - Program in Solid Tumors, Cima Universidad de Navarra, Cancer Center Clinica 
+      Universidad de Navarra (CCUN), Pamplona, Spain; Navarra's Health Research 
+      Institute (IdiSNA), Pamplona, Spain; Department of Biochemistry and Genetics, 
+      School of Sciences, Universidad de Navarra, Pamplona, Spain; Centro de 
+      Investigacion Biomedica en Red Cancer (CIBERONC), Madrid, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250717
+PL  - Netherlands
+TA  - Immunobiology
+JT  - Immunobiology
+JID - 8002742
+SB  - IM
+OTO - NOTNLM
+OT  - Cancer
+OT  - Complement system
+OT  - Epigenetic regulation
+OT  - Functional Genomics
+OT  - Genetic variants
+OT  - Immune response
+OT  - Precision medicine
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/07/20 18:30
+MHDA- 2025/07/20 18:30
+CRDT- 2025/07/20 18:00
+PHST- 2025/07/20 18:30 [medline]
+PHST- 2025/07/20 18:30 [pubmed]
+PHST- 2025/04/15 00:00 [received]
+PHST- 2025/06/09 00:00 [revised]
+PHST- 2025/07/11 00:00 [accepted]
+PHST- 2025/07/20 18:00 [entrez]
+AID - S0171-2985(25)00234-7 [pii]
+AID - 10.1016/j.imbio.2025.153100 [doi]
+PST - aheadofprint
+SO  - Immunobiology. 2025 Jul 17;230(4):153100. doi: 10.1016/j.imbio.2025.153100.
+
+PMID- 40684498
+OWN - NLM
+STAT- Publisher
+LR  - 20250720
+IS  - 1950-6007 (Electronic)
+IS  - 0753-3322 (Linking)
+VI  - 190
+DP  - 2025 Jul 19
+TI  - Age-associated changes in type I collagen promote the invasion of BRAF(V600E) 
+      mutated melanoma cells and their resistance to targeted therapies within 
+      three-dimensional matrix models.
+PG  - 118351
+LID - S0753-3322(25)00545-1 [pii]
+LID - 10.1016/j.biopha.2025.118351 [doi]
+AB  - Melanoma represents the most aggressive form of skin cancer, with the highest 
+      rate of mortality. Anti-mutated BRAF(V600E) therapies, such as vemurafenib, has 
+      improved the prognosis for melanoma patients; however, resistance to these 
+      targeted therapies frequently emerges. Type I collagen-a key element of the tumor 
+      microenvironment-contributes to tumor progression and therapeutic resistance. 
+      With aging, type I collagen undergoes structural remodeling that alters its 
+      fibrillar organization and mechanical properties. Although these changes have 
+      been documented, their impact on BRAF(V600E)-mutated melanoma cell behavior and 
+      drug response remains unclear. In this study, we utilized both in vitro and in 
+      vivo models to fill this critical gap by investigating how collagen remodeling 
+      associated with advanced age modulates BRAF(V600E)-mutated melanoma response to 
+      vemurafenib. Our findings indicate that in vitro-using a 3D culture matrix 
+      model-old collagen promotes increased proliferation of 1205Lu cells and protects 
+      both 1205Lu and SKMEL28 cells from vemurafenib effects. This was associated with 
+      elevated YAP expression, suggesting a role for mechanotransduction in drug 
+      resistance. The 3D collagen matrix spheroid model revealed that aged collagen 
+      enhances the invasive properties of 1205Lu cells, which correlated with an 
+      upregulation of the AXL receptor. In vivo, vemurafenib reduced tumor growth in 
+      athymic mice xenografted with melanoma cells embedded in young collagen matrices, 
+      but not in those with aged collagen. Collectively, our data suggest that 
+      age-related alterations in type I collagen contribute to reduced efficacy of 
+      anti-BRAF(V600E) therapies in BRAF(V600E)-mutated melanoma.
+CI  - Copyright (c) 2025 The Authors. Published by Elsevier Masson SAS.. All rights 
+      reserved.
+FAU - Florent, Laetitia
+AU  - Florent L
+AD  - Universite de Reims Champagne-Ardenne, BioSpecT, CHU Reims, Service Biochimie, 
+      Reims, France. Electronic address: laetitia.florent@univ-reims.fr.
+FAU - Saby, Charles
+AU  - Saby C
+AD  - Universite de Reims Champagne-Ardenne, BioSpecT, Reims, France.
+FAU - Courageot, Marie-Pierre
+AU  - Courageot MP
+AD  - Universite de Reims Champagne-Ardenne, BioSpecT, Reims, France.
+FAU - Terryn, Christine
+AU  - Terryn C
+AD  - Universite de Reims Champagne-Ardenne, URCATech, Reims, France.
+FAU - Van Gulick, Laurence
+AU  - Van Gulick L
+AD  - Universite de Reims Champagne-Ardenne, BioSpecT, Reims, France.
+FAU - Vanmansart, Jade
+AU  - Vanmansart J
+AD  - Universite de Reims Champagne-Ardenne, BioSpecT, Reims, France.
+FAU - Slimano, Florian
+AU  - Slimano F
+AD  - Universite de Reims Champagne-Ardenne, BioSpecT, CHU Reims, Service Pharmacie, 
+      Reims, France.
+FAU - Morjani, Hamid
+AU  - Morjani H
+AD  - Universite de Reims Champagne-Ardenne, BioSpecT, Reims, France. Electronic 
+      address: hamid.morjani@univ-reims.fr.
+LA  - eng
+PT  - Journal Article
+DEP - 20250719
+PL  - France
+TA  - Biomed Pharmacother
+JT  - Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+JID - 8213295
+SB  - IM
+OTO - NOTNLM
+OT  - Age-related modifications
+OT  - BRAF(V600E) melanoma
+OT  - Invasion
+OT  - Resistance
+OT  - Targeted therapy
+OT  - Type I collagen
+COIS- Declaration of Competing Interest The authors declare no competing financial or 
+      non-financial interests relevant to the content of this manuscript.
+EDAT- 2025/07/20 18:30
+MHDA- 2025/07/20 18:30
+CRDT- 2025/07/20 17:59
+PHST- 2025/07/20 18:30 [medline]
+PHST- 2025/07/20 18:30 [pubmed]
+PHST- 2024/12/23 00:00 [received]
+PHST- 2025/07/03 00:00 [revised]
+PHST- 2025/07/10 00:00 [accepted]
+PHST- 2025/07/20 17:59 [entrez]
+AID - S0753-3322(25)00545-1 [pii]
+AID - 10.1016/j.biopha.2025.118351 [doi]
+PST - aheadofprint
+SO  - Biomed Pharmacother. 2025 Jul 19;190:118351. doi: 10.1016/j.biopha.2025.118351.
+
+PMID- 40684496
+OWN - NLM
+STAT- Publisher
+LR  - 20250720
+IS  - 1950-6007 (Electronic)
+IS  - 0753-3322 (Linking)
+VI  - 190
+DP  - 2025 Jul 19
+TI  - Harnessing the potential of CAR-NK cell therapy in gastrointestinal cancers: From 
+      bench to bedside.
+PG  - 118380
+LID - S0753-3322(25)00574-8 [pii]
+LID - 10.1016/j.biopha.2025.118380 [doi]
+AB  - Cancer is one of the leading causes of mortality worldwide, with gastrointestinal 
+      (GI) malignancies being among the most prevalent and lethal types. Traditional 
+      treatments for GI cancers, such as chemotherapy and radiotherapy, often result in 
+      severe side effects due to their lack of specificity. Among the various 
+      therapeutic strategies, immunotherapy has emerged as a promising and highly 
+      specific approach for treating GI cancers. Immunotherapeutic methods include the 
+      use of monoclonal antibodies with diverse specificities, as well as cell-based 
+      therapies. Engineered cell therapies, particularly those utilizing chimeric 
+      antigen receptor (CAR) T cells and natural killer (NK) cells, represent a 
+      forefront in innovative cancer treatment. While CAR-T cells have shown promise, 
+      CAR-NK cells offer distinct advantages, such as the ability to kill tumor cells 
+      independently of CAR signaling and their suitability for safe allogeneic 
+      transplantation.Given these benefits, CAR-NK cells have gained attention as 
+      either a complementary or alternative strategy to CAR-T cell therapy in GI 
+      cancers. Despite this potential, a comprehensive review specifically focused on 
+      CAR-NK therapy in GI malignancies has been lacking. The present study aims to 
+      address this gap by exploring the application of CAR-NK therapy in various GI 
+      cancers, including colorectal, pancreatic, hepatocellular, esophageal, gastric, 
+      and tongue cancers, highlighting the targeted tumor antigens and recent 
+      advancements in the field.
+CI  - Copyright (c) 2025 The Authors. Published by Elsevier Masson SAS.. All rights 
+      reserved.
+FAU - Ghorbani Vanan, Ahmad
+AU  - Ghorbani Vanan A
+AD  - Cancer Immunology and Immunotherapy Research Center, Ardabil University of 
+      Medical Sciences, Ardabil, Iran; Student Research Committee, School of Medicine, 
+      Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Askari, Mohammad Reza
+AU  - Askari MR
+AD  - Students Research Committee, Abadan University of Medical Sciences, Abadan, Iran.
+FAU - Bagheri, Kamyar
+AU  - Bagheri K
+AD  - Students Research Committee, Abadan University of Medical Sciences, Abadan, Iran.
+FAU - Arghand, Mohammad Reza
+AU  - Arghand MR
+AD  - Students Research Committee, Ardabil University of Medical Sciences, Ardabil, 
+      Iran.
+FAU - Ghorbaninezhad, Farid
+AU  - Ghorbaninezhad F
+AD  - Student Research Committee, School of Medicine, Shahid Beheshti University of 
+      Medical Sciences, Tehran, Iran.
+FAU - Tahmasebi, Safa
+AU  - Tahmasebi S
+AD  - Student Research Committee, School of Medicine, Shahid Beheshti University of 
+      Medical Sciences, Tehran, Iran.
+FAU - Taghizadeh-Anvar, Milad
+AU  - Taghizadeh-Anvar M
+AD  - Student Research Committee, School of Medicine, Shahid Beheshti University of 
+      Medical Sciences, Tehran, Iran.
+FAU - Nouri, Samaneh
+AU  - Nouri S
+AD  - Students Research Committee, Ardabil University of Medical Sciences, Ardabil, 
+      Iran.
+FAU - Safarzadeh, Elham
+AU  - Safarzadeh E
+AD  - Cancer Immunology and Immunotherapy Research Center, Ardabil University of 
+      Medical Sciences, Ardabil, Iran; Department of Microbiology, Parasitology, and 
+      Immunology, Ardabil University of Medical Sciences, Ardabil, Iran. Electronic 
+      address: E.safarzadeh@arums.ac.ir.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250719
+PL  - France
+TA  - Biomed Pharmacother
+JT  - Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+JID - 8213295
+SB  - IM
+OTO - NOTNLM
+OT  - CAR-NK cell
+OT  - Cancer
+OT  - Cell therapy
+OT  - Gastrointestinal cancer
+OT  - NK cell
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/07/20 18:30
+MHDA- 2025/07/20 18:30
+CRDT- 2025/07/20 17:59
+PHST- 2025/07/20 18:30 [medline]
+PHST- 2025/07/20 18:30 [pubmed]
+PHST- 2025/04/13 00:00 [received]
+PHST- 2025/07/03 00:00 [revised]
+PHST- 2025/07/16 00:00 [accepted]
+PHST- 2025/07/20 17:59 [entrez]
+AID - S0753-3322(25)00574-8 [pii]
+AID - 10.1016/j.biopha.2025.118380 [doi]
+PST - aheadofprint
+SO  - Biomed Pharmacother. 2025 Jul 19;190:118380. doi: 10.1016/j.biopha.2025.118380.
+
+PMID- 40684488
+OWN - NLM
+STAT- Publisher
+LR  - 20250720
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 145
+DP  - 2025 Jul 11
+TI  - Brusatol ameliorates irinotecan-induced delayed diarrhea via inhibition of the 
+      cGAS-STING pathway and modulation of intestinal flora.
+PG  - 157071
+LID - S0944-7113(25)00710-X [pii]
+LID - 10.1016/j.phymed.2025.157071 [doi]
+AB  - BACKGROUND: Irinotecan, a widely used chemotherapeutic agent, has seen its 
+      clinical application constrained by delayed diarrhea. Brucea javanica, with 
+      documented historical use in dysentery management, demonstrates anticancer 
+      synergy in its modern emulsion formulation (BJOE). Brusatol (BR), the primary 
+      bioactive compound of B. javanica, possesses anti-cancer, anti-inflammatory and 
+      anti-diarrheal properties. However, its potential effect on irinotecan-induced 
+      delayed diarrhea has yet to be explored. PURPOSE: The objective of this work was 
+      to experimentally explore the efficacy and action mechanism of BR in alleviating 
+      diarrhea. METHODS: Body weight, DAI score, colon length were measured in 
+      irinotecan-induced delayed diarrhea mouse model. The small animal imager was 
+      utilized to visualize the distribution of FITC-Dextran, and the serum 
+      fluorescence intensity was measured to assess intestinal permeability. 
+      Histopathology (HE and PAS staining), immunohistochemistry, and 
+      immunofluorescence were performed. Inflammation and barrier indices were 
+      evaluated via PCR and ELISA. Molecular docking, the STING agonist DMXAA, and 16S 
+      rRNA sequencing were employed to elucidate the possible mechanism. RESULTS: BR 
+      markedly ameliorated weight loss, DAI score, and colon length in mice. It also 
+      reduced intestinal permeability and pathological injury. The concentration of 
+      IL-1beta, IL-6, as well as TNF-alpha was notably reduced by BR, while IL-10 expression 
+      was upregulated. The mRNA expression of tight junction markers ZO-1 and occludin 
+      was remarkably upregulated by BR. BR effectively restored mucin content in 
+      colonic cup cells and increase PCNA protein expression. The suppressive effect of 
+      BR on cGAS and STING was significantly reversed by DMXAA, and its effect on 
+      reducing colonic dsDNA and IFN-beta protein levels was also markedly attenuated by 
+      DMXAA. Promoting STING secretion significantly attenuated the suppressive effect 
+      of BR on the cGAS-STING pathway, as evidenced by the increase of mRNA expression 
+      of cGAS, STING, CXCL10, CCL5, and IFN-beta, as well as the protein expression of 
+      cGAS, STING, p-TBK1, and p-IRF3. Additionally, DMXAA attenuated BR's effect on 
+      the abundance of Proteobacteria and Bacteroidetes. CONCLUSION: Our study suggests 
+      that brusatol effectively mitigated irinotecan-induced delayed diarrhea, as least 
+      partially, via inhibition of aberrant activation of the cGAS-STING pathway and 
+      modulation of intestinal microbiome. Our findings may offer novel insights into 
+      the modern use of B. javanica for the treatment of diarrhea and open new avenues 
+      for the development of adjuvant anticancer drugs that alleviate 
+      irinotecan-induced intestinal adverse effects.
+CI  - Copyright (c) 2025. Published by Elsevier GmbH.
+FAU - Lai, Zixuan
+AU  - Lai Z
+AD  - School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, 
+      Guangzhou 510006, PR China.
+FAU - Zhang, Yong
+AU  - Zhang Y
+AD  - School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, 
+      Guangzhou 510006, PR China.
+FAU - Huang, Weimu
+AU  - Huang W
+AD  - School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, 
+      Guangzhou 510006, PR China.
+FAU - Wang, Juan
+AU  - Wang J
+AD  - School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, 
+      Guangzhou 510006, PR China.
+FAU - Liu, Chunting
+AU  - Liu C
+AD  - School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, 
+      Guangzhou 510006, PR China.
+FAU - Ren, Mihong
+AU  - Ren M
+AD  - School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, 
+      Guangzhou 510006, PR China; Dongguan Institute of Guangzhou University of Chinese 
+      Medicine, Dongguan 523808, PR China.
+FAU - Huang, Xiaoqi
+AU  - Huang X
+AD  - School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, 
+      Guangzhou 510006, PR China; Dongguan Institute of Guangzhou University of Chinese 
+      Medicine, Dongguan 523808, PR China.
+FAU - Chen, Jiannan
+AU  - Chen J
+AD  - School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, 
+      Guangzhou 510006, PR China; Dongguan Institute of Guangzhou University of Chinese 
+      Medicine, Dongguan 523808, PR China.
+FAU - Xie, Jianhui
+AU  - Xie J
+AD  - State Key Laboratory of Traditional Chinese Medicine Syndrome, State Key 
+      Laboratory of Dampness Syndrome of Chinese Medicine, The Second Affiliated 
+      Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510120, PR China; 
+      Guangdong Provincial Key Laboratory of Clinical Research on Traditional Chinese 
+      Medicine Syndrome, Guangzhou 510120, PR China.
+FAU - Chen, Baoyi
+AU  - Chen B
+AD  - Dongguan Hospital of Guangzhou University of Chinese Medicine, Dongguan 523000, 
+      PR China. Electronic address: chen-baoyi@qq.com.
+FAU - Lai, Zhengquan
+AU  - Lai Z
+AD  - Department of Pharmacy, Shenzhen University General Hospital/Shenzhen University 
+      Clinical Medical Academy, Shenzhen University, Shenzhen 518055, PR China. 
+      Electronic address: cruise0303@163.com.
+FAU - Xie, Youliang
+AU  - Xie Y
+AD  - School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, 
+      Guangzhou 510006, PR China; Dongguan Institute of Guangzhou University of Chinese 
+      Medicine, Dongguan 523808, PR China; Guangdong Provincial Key Laboratory of 
+      Clinical Research on Traditional Chinese Medicine Syndrome, Guangzhou 510120, PR 
+      China. Electronic address: xieyl@gzucm.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250711
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - Delayed diarrhea
+OT  - brusatol
+OT  - cGAS-STING pathway
+OT  - intestinal flora
+OT  - irinotecan
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/07/20 18:30
+MHDA- 2025/07/20 18:30
+CRDT- 2025/07/20 17:59
+PHST- 2025/07/20 18:30 [medline]
+PHST- 2025/07/20 18:30 [pubmed]
+PHST- 2025/02/18 00:00 [received]
+PHST- 2025/06/19 00:00 [revised]
+PHST- 2025/07/10 00:00 [accepted]
+PHST- 2025/07/20 17:59 [entrez]
+AID - S0944-7113(25)00710-X [pii]
+AID - 10.1016/j.phymed.2025.157071 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Jul 11;145:157071. doi: 10.1016/j.phymed.2025.157071.
