@@ -1,0 +1,15 @@
+# ignore virtual environments
+pubmed/
+
+# ignore compiled files and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# ignore data and model files
+*.npy
+*.npz
+*.pkl
+
+# ignore system files
+.DS_Store
