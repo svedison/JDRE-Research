@@ -1,5 +1,6 @@
 from transformers import AutoTokenizer, AutoModel
 import torch
+import pandas as pd
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
@@ -31,7 +32,17 @@ models = {
     "SapBERT": "cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" # support 50+ langauges
 }
 
+results = {}
+
 for name, model_id in models.items():
-    print(f"\n{name} embedding:")
-    embedding = get_embedding(sample_text, model_id)
-    print(embedding[:6]) 
+    print(f"\nprocessing {name}...")
+    try:
+        embedding = get_embedding(sample_text, model_id)
+        results[name] = embedding
+    except Exception as e:
+        print(f"{name} failed: {e}")
+        results[name] = None
+
+df = pd.DataFrame.from_dict(results, orient='index')
+df.to_csv("model_embeddings.csv")
+print("\n Saved embeddings to model_embeddings.csv")
