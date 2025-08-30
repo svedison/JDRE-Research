@@ -1,0 +1,23 @@
+name: umls
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - pandas=2.3.1
+  - biopython=1.85
+  - python-dateutil=2.9.0post0
+  - pytz
+  - six=1.17.0
+  - scipy=1.10
+  - scikit-learn=1.5
+  - nmslib=2.1.1
+  - pip
+  - pip:
+      - spacy==3.7.4
+      - scispacy==0.5.4
+      - smart_open==6.4.0
+      - conllu==6.0.0
+      - joblib==1.5.2
+      - pysbd==0.3.4
+      - "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_md-0.5.4.tar.gz"
